@@ -77,6 +77,10 @@ bill_splitter.exe        # Windows
 
 C (GCC) — written while working through a beginner C course.
 
+## Author
+
+**Akash Bhat** — [github.com/AkashBGBhat](https://github.com/AkashBGBhat)
+
 The code below is The Bill Calculator
 
     #include <stdio.h>
