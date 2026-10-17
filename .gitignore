@@ -1,0 +1,11 @@
+# Compiled binaries
+bill_splitter
+bill_splitter.exe
+*.o
+*.out
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
